@@ -42,6 +42,25 @@ p {
     width: 100%;
   }
 
+
+#test-swipe-2 h1 {
+  font-size: 24px;
+}
+#test-swipe-2 img {
+  max-width: 800px;
+}
+#test-swipe-2 a {
+  color: blue;
+}
+
+.icon-block {
+  text-align: center;
+}
+
+.icon-block img {
+  max-width: 300px;
+}
+
 @media only screen and (max-width : 992px) {
   .parallax-container .section {
     position: absolute;
@@ -68,3 +87,4 @@ p {
 footer.page-footer {
   margin: 0;
 }
+
